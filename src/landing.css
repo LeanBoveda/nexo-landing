@@ -12,7 +12,7 @@ svg { vertical-align: middle; }
   color: var(--nx-ink);
   background: var(--nx-paper);
   font-family: 'Geist', Arial, sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.6;
   overflow: clip;
 }
@@ -94,7 +94,7 @@ svg { vertical-align: middle; }
   display: flex;
   align-items: center;
   gap: 24px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 550;
 }
 .nx-nav > a {
@@ -123,7 +123,7 @@ svg { vertical-align: middle; }
   text-align: center;
 }
 .nx-eyebrow {
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 1.7px;
   font-weight: 700;
   display: inline-block;
@@ -156,7 +156,7 @@ svg { vertical-align: middle; }
 }
 .nx-hero-copy > p {
   color: var(--nx-muted);
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.8;
 }
 .nx-actions {
@@ -176,7 +176,7 @@ svg { vertical-align: middle; }
   border: 1px solid transparent;
   border-radius: 7px;
   padding: 14px 21px;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 600;
   cursor: pointer;
   transition:
@@ -193,7 +193,7 @@ svg { vertical-align: middle; }
   display: inline-flex;
   align-items: center;
   gap: 12px;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 600;
 }
 .nx-text-link:hover {
@@ -204,7 +204,7 @@ svg { vertical-align: middle; }
   justify-content: center;
   gap: 22px;
   margin-top: 22px;
-  font-size: 10px;
+  font-size: 12px;
   color: var(--nx-muted);
 }
 .nx-hero-note span {
@@ -229,7 +229,7 @@ svg { vertical-align: middle; }
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 9px;
+  font-size: 10px;
   color: var(--nx-muted);
   position: relative;
 }
@@ -239,7 +239,7 @@ svg { vertical-align: middle; }
 }
 .nx-preview-label > span:first-child {
   font-weight: 650;
-  font-size: 9px;
+  font-size: 10px;
 }
 .nx-preview-caption {
   margin-top: 16px;
@@ -272,7 +272,7 @@ svg { vertical-align: middle; }
   background: #f0f2e9;
 }
 .nx-product-side .nx-brand {
-  font-size: 25px;
+  font-size: 26px;
   margin-bottom: 25px;
 }
 .nx-product-side .nx-mark {
@@ -280,7 +280,7 @@ svg { vertical-align: middle; }
   height: 29px;
 }
 .nx-product-side > small {
-  font-size: 7px;
+  font-size: 8px;
   letter-spacing: 1px;
   margin-bottom: 8px;
   color: #657163;
@@ -290,7 +290,7 @@ svg { vertical-align: middle; }
   align-items: center;
   gap: 10px;
   padding: 8px 11px;
-  font-size: 10px;
+  font-size: 12px;
   color: #68746b;
   border-radius: 6px;
 }
@@ -301,13 +301,13 @@ svg { vertical-align: middle; }
 .nx-product-side > .nx-preview-account {
   margin-top: auto;
   padding-top: 30px;
-  font-size: 8px;
+  font-size: 9px;
 }
 .nx-preview-account > span {
   background: #dfe7d1;
   border-radius: 50%;
   padding: 7px;
-  font-size: 8px;
+  font-size: 9px;
 }
 .nx-product-body {
   padding: 0 26px 24px;
@@ -319,11 +319,11 @@ svg { vertical-align: middle; }
   justify-content: space-between;
   border-bottom: 1px solid #e0e5df;
   padding: 16px 0;
-  font-size: 8px;
+  font-size: 9px;
   color: #667263;
 }
 .nx-example {
-  font-size: 7px;
+  font-size: 8px;
   letter-spacing: 1px;
   border: 1px solid #dce2d5;
   border-radius: 4px;
@@ -336,18 +336,18 @@ svg { vertical-align: middle; }
   margin: 24px 0 20px;
 }
 .nx-product-heading small {
-  font-size: 7px;
+  font-size: 8px;
   letter-spacing: 1px;
   color: #6b7864;
 }
 .nx-product-heading h3 {
-  font-size: 22px;
+  font-size: 23px;
   letter-spacing: -0.8px;
   font-weight: 650;
   margin: 3px 0;
 }
 .nx-product-heading p {
-  font-size: 9px;
+  font-size: 10px;
   color: #6d756e;
   margin: 0;
 }
@@ -358,7 +358,7 @@ svg { vertical-align: middle; }
   border: 1px solid #d5ded0;
   border-radius: 5px;
   padding: 7px;
-  font-size: 8px;
+  font-size: 9px;
 }
 .nx-preview-metrics {
   display: grid;
@@ -380,11 +380,11 @@ svg { vertical-align: middle; }
   color: #618536;
 }
 .nx-preview-metrics strong {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 600;
 }
 .nx-preview-metrics small {
-  font-size: 8px;
+  font-size: 9px;
   color: #72806c;
 }
 .nx-preview-panels {
@@ -403,10 +403,10 @@ svg { vertical-align: middle; }
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 10px;
+  font-size: 12px;
 }
 .nx-week > p {
-  font-size: 8px;
+  font-size: 9px;
   color: #76816e;
   margin: 5px 0 14px;
 }
@@ -417,7 +417,7 @@ svg { vertical-align: middle; }
   margin-bottom: 10px;
 }
 .nx-days > span {
-  font-size: 8px;
+  font-size: 9px;
   color: #677464;
   text-align: center;
   padding: 4px 2px;
@@ -426,7 +426,7 @@ svg { vertical-align: middle; }
 .nx-days i {
   display: block;
   font-style: normal;
-  font-size: 10px;
+  font-size: 12px;
   margin-top: 4px;
 }
 .nx-days .training {
@@ -439,7 +439,7 @@ svg { vertical-align: middle; }
   gap: 9px;
   padding: 9px 0;
   border-top: 1px solid #edf0e8;
-  font-size: 8px;
+  font-size: 9px;
 }
 .nx-session > span:nth-child(2) {
   flex: 1;
@@ -447,7 +447,7 @@ svg { vertical-align: middle; }
 .nx-session small {
   display: block;
   color: #7a8374;
-  font-size: 7px;
+  font-size: 8px;
 }
 .nx-session-icon {
   background: #f0f3ea;
@@ -476,13 +476,13 @@ svg { vertical-align: middle; }
   height: 30px;
 }
 .nx-feedback h4 {
-  font-size: 19px;
+  font-size: 20px;
   line-height: 1.25;
   letter-spacing: -0.5px;
   margin: 15px 0 10px;
 }
 .nx-feedback p {
-  font-size: 9px;
+  font-size: 10px;
   color: #c0c9ce;
   line-height: 1.8;
 }
@@ -490,7 +490,7 @@ svg { vertical-align: middle; }
   margin-top: 25px;
 }
 .nx-signal > span {
-  font-size: 8px;
+  font-size: 9px;
   display: flex;
   justify-content: space-between;
 }
@@ -508,7 +508,7 @@ svg { vertical-align: middle; }
   border-radius: 4px;
 }
 .nx-signal small {
-  font-size: 7px;
+  font-size: 8px;
   color: #a9b6c3;
 }
 .nx-audience {
@@ -520,7 +520,7 @@ svg { vertical-align: middle; }
   background: #f3f5ef;
 }
 .nx-audience > span {
-  font-size: 8px;
+  font-size: 9px;
   letter-spacing: 1.8px;
   color: #6a7661;
   font-weight: 600;
@@ -531,7 +531,7 @@ svg { vertical-align: middle; }
   justify-content: center;
   gap: 35px;
   margin-top: 15px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 550;
   letter-spacing: -0.3px;
 }
@@ -556,7 +556,7 @@ svg { vertical-align: middle; }
 .nx-heading-split > p {
   max-width: 510px;
   color: var(--nx-muted);
-  font-size: 14px;
+  font-size: 16px;
 }
 .nx-problems {
   display: grid;
@@ -575,12 +575,12 @@ svg { vertical-align: middle; }
   font-weight: 600;
 }
 .nx-problems h3 {
-  font-size: 17px;
+  font-size: 18px;
   letter-spacing: -0.5px;
   margin: 18px 0 9px;
 }
 .nx-problems p {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--nx-muted);
   line-height: 1.9;
 }
@@ -595,7 +595,7 @@ svg { vertical-align: middle; }
 }
 .nx-problem-close p {
   flex: 1;
-  font-size: 13px;
+  font-size: 15px;
   margin: 0;
 }
 .nx-problem-close .nx-mark {
@@ -641,19 +641,19 @@ svg { vertical-align: middle; }
   align-items: center;
 }
 .nx-feature h3 {
-  font-size: 24px;
+  font-size: 25px;
   line-height: 1.2;
   letter-spacing: -0.9px;
   margin: 23px 0 13px;
 }
 .nx-feature p {
-  font-size: 12px;
+  font-size: 14px;
   color: var(--nx-muted);
   line-height: 1.9;
   margin: 0 0 24px;
 }
 .nx-feature-tag {
-  font-size: 7px;
+  font-size: 8px;
   font-weight: 650;
   letter-spacing: 1px;
   color: #69775e;
@@ -667,12 +667,12 @@ svg { vertical-align: middle; }
   transform: rotate(-2deg);
 }
 .nx-tiny-label {
-  font-size: 7px;
+  font-size: 8px;
   letter-spacing: 1px;
   color: #7c886f;
 }
 .nx-routine-visual h4 {
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 600;
   margin: 9px 0;
 }
@@ -682,7 +682,7 @@ svg { vertical-align: middle; }
   gap: 14px;
   background: #eaf4d8;
   color: #536e2e;
-  font-size: 8px;
+  font-size: 9px;
   padding: 3px 7px;
   border-radius: 4px;
   margin-bottom: 15px;
@@ -693,10 +693,10 @@ svg { vertical-align: middle; }
   align-items: center;
   border-top: 1px solid #e9ede3;
   padding: 15px 0;
-  font-size: 9px;
+  font-size: 10px;
 }
 .nx-routine-line > span {
-  font-size: 8px;
+  font-size: 9px;
   color: #87947a;
 }
 .nx-routine-line strong {
@@ -707,7 +707,7 @@ svg { vertical-align: middle; }
   display: flex;
   align-items: center;
   gap: 5px;
-  font-size: 7px;
+  font-size: 8px;
   color: #6e7b62;
   margin-top: 8px;
 }
@@ -739,7 +739,7 @@ svg { vertical-align: middle; }
   border-radius: 50%;
   background: #cbd8b8;
   color: #344d2a;
-  font-size: 10px;
+  font-size: 12px;
   margin-right: -8px;
 }
 .nx-avatars > span:nth-child(2) {
@@ -771,13 +771,13 @@ svg { vertical-align: middle; }
 }
 .nx-visual-caption {
   display: block;
-  font-size: 7px;
+  font-size: 8px;
   color: #67745b;
   margin-top: 10px;
 }
 .nx-test-visual {
   margin-top: 30px;
-  font-size: 9px;
+  font-size: 10px;
 }
 .nx-test-visual > span {
   display: flex;
@@ -790,7 +790,7 @@ svg { vertical-align: middle; }
   justify-content: space-between;
   color: #7a866e;
   margin-top: 15px;
-  font-size: 8px;
+  font-size: 9px;
 }
 .nx-chart-line {
   color: #799b45;
@@ -810,7 +810,7 @@ svg { vertical-align: middle; }
 }
 .nx-feature-lime .nx-text-link {
   margin-top: 20px;
-  font-size: 12px;
+  font-size: 14px;
 }
 .nx-steps {
   display: grid;
@@ -823,7 +823,7 @@ svg { vertical-align: middle; }
   padding-top: 23px;
 }
 .nx-step-number {
-  font-size: 12px;
+  font-size: 14px;
   color: #637e3c;
   background: #edf3e2;
   width: 35px;
@@ -834,12 +834,12 @@ svg { vertical-align: middle; }
   font-weight: 600;
 }
 .nx-steps h3 {
-  font-size: 17px;
+  font-size: 18px;
   letter-spacing: -0.5px;
   margin: 22px 0 10px;
 }
 .nx-steps p {
-  font-size: 12px;
+  font-size: 14px;
   color: var(--nx-muted);
   line-height: 1.9;
 }
@@ -851,7 +851,7 @@ svg { vertical-align: middle; }
   border-radius: 8px;
   padding: 18px 22px;
   margin-top: 40px;
-  font-size: 12px;
+  font-size: 14px;
 }
 .nx-access-note p {
   flex: 1;
@@ -882,7 +882,7 @@ svg { vertical-align: middle; }
 }
 .nx-benefits-layout > div > p {
   color: #bdc8d2;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.9;
   max-width: 365px;
   margin-bottom: 30px;
@@ -909,12 +909,12 @@ svg { vertical-align: middle; }
   margin-top: 4px;
 }
 .nx-benefit-list h3 {
-  font-size: 17px;
+  font-size: 18px;
   letter-spacing: -0.4px;
   margin: 0 0 8px;
 }
 .nx-benefit-list p {
-  font-size: 12px;
+  font-size: 14px;
   color: #bdc8d2;
   line-height: 1.9;
   margin: 0;
@@ -926,12 +926,12 @@ svg { vertical-align: middle; }
   align-items: start;
 }
 .nx-about > div > p {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--nx-muted);
   line-height: 1.9;
 }
 .nx-about .nx-about-lead {
-  font-size: 21px;
+  font-size: 22px;
   color: var(--nx-ink);
   line-height: 1.6;
   letter-spacing: -0.4px;
@@ -941,7 +941,7 @@ svg { vertical-align: middle; }
   border-left: 2px solid #bdce9f;
   padding: 4px 0 4px 18px;
   margin-top: 24px;
-  font-size: 10px;
+  font-size: 12px;
   color: var(--nx-muted);
 }
 .nx-editor-note strong {
@@ -961,7 +961,7 @@ svg { vertical-align: middle; }
   gap: 100px;
 }
 .nx-faq-layout > div > p {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--nx-muted);
 }
 .nx-faq-layout .nx-text-link {
@@ -978,7 +978,7 @@ svg { vertical-align: middle; }
   gap: 20px;
   padding: 22px 0;
   cursor: pointer;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 550;
 }
 .nx-faq summary::-webkit-details-marker {
@@ -993,7 +993,7 @@ svg { vertical-align: middle; }
 }
 .nx-faq details > p {
   margin: 0 0 24px;
-  font-size: 12px;
+  font-size: 14px;
   color: var(--nx-muted);
   line-height: 1.9;
   animation: nx-fade 0.2s ease;
@@ -1006,7 +1006,7 @@ svg { vertical-align: middle; }
 .nx-contact > div > p {
   max-width: 350px;
   color: var(--nx-muted);
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.9;
 }
 .nx-contact-info {
@@ -1014,12 +1014,12 @@ svg { vertical-align: middle; }
   gap: 13px;
   align-items: center;
   margin-top: 35px;
-  font-size: 10px;
+  font-size: 12px;
   color: #68785b;
 }
 .nx-form label {
   display: block;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 600;
   margin-bottom: 17px;
 }
@@ -1032,7 +1032,7 @@ svg { vertical-align: middle; }
   border-radius: 6px;
   padding: 12px;
   margin-top: 7px;
-  font-size: 12px;
+  font-size: 14px;
   color: var(--nx-ink);
 }
 .nx-form input::placeholder,
@@ -1049,13 +1049,13 @@ svg { vertical-align: middle; }
   gap: 16px;
 }
 .nx-form-note {
-  font-size: 10px;
+  font-size: 12px;
   color: var(--nx-muted);
   margin: 0 0 18px;
   max-width: 380px;
 }
 .nx-form-status {
-  font-size: 12px;
+  font-size: 14px;
   color: #795011;
   margin-top: 15px;
   line-height: 1.8;
@@ -1075,13 +1075,13 @@ svg { vertical-align: middle; }
   color: #6a843f;
 }
 .nx-final > p {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--nx-muted);
   margin-bottom: 25px;
 }
 .nx-final > small {
   display: block;
-  font-size: 9px;
+  font-size: 10px;
   margin-top: 14px;
   color: #62734e;
 }
@@ -1095,7 +1095,7 @@ svg { vertical-align: middle; }
   padding-bottom: 45px;
 }
 .nx-footer-top p {
-  font-size: 11px;
+  font-size: 13px;
   color: var(--nx-muted);
   margin-top: 17px;
   line-height: 1.9;
@@ -1104,7 +1104,7 @@ svg { vertical-align: middle; }
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 12px;
-  font-size: 11px;
+  font-size: 13px;
   align-content: start;
 }
 .nx-footer nav a:hover {
@@ -1114,11 +1114,11 @@ svg { vertical-align: middle; }
   display: flex;
   flex-direction: column;
   gap: 10px;
-  font-size: 9px;
+  font-size: 10px;
   color: var(--nx-muted);
 }
 .nx-legal strong {
-  font-size: 11px;
+  font-size: 13px;
   color: var(--nx-ink);
   font-weight: 600;
 }
@@ -1129,7 +1129,7 @@ svg { vertical-align: middle; }
   gap: 20px;
   border-top: 1px solid var(--nx-line);
   padding: 22px 0;
-  font-size: 9px;
+  font-size: 10px;
   color: var(--nx-muted);
 }
 .nx-footer-bottom > span:last-child {
@@ -1180,7 +1180,7 @@ svg { vertical-align: middle; }
 @media (max-width: 1100px) {
   .nx-nav {
     gap: 14px;
-    font-size: 10px;
+    font-size: 12px;
   }
   .nx-nav-wrap {
     padding-inline: 25px;
@@ -1203,14 +1203,14 @@ svg { vertical-align: middle; }
     gap: 18px;
   }
   .nx-feature h3 {
-    font-size: 22px;
+    font-size: 23px;
   }
   .nx-faq-layout {
     gap: 55px;
   }
   .nx-audience > div {
     gap: 23px;
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 @media (max-width: 800px) {
@@ -1236,7 +1236,7 @@ svg { vertical-align: middle; }
     padding: 20px 24px 24px;
     box-shadow: 0 15px 20px #10253d10;
     border-bottom: 1px solid var(--nx-line);
-    font-size: 14px;
+    font-size: 16px;
   }
   .nx-nav-open {
     display: flex;
@@ -1291,23 +1291,23 @@ svg { vertical-align: middle; }
     padding: 0 15px 15px;
   }
   .nx-product-heading h3 {
-    font-size: 18px;
+    font-size: 19px;
   }
   .nx-preview-metrics > div {
     padding: 12px 8px;
   }
   .nx-preview-metrics small {
-    font-size: 6px;
+    font-size: 7px;
   }
   .nx-product-side > div {
-    font-size: 8px;
+    font-size: 9px;
     gap: 7px;
   }
   .nx-product-side > small {
-    font-size: 6px;
+    font-size: 7px;
   }
   .nx-product-side > .nx-preview-account {
-    font-size: 6px;
+    font-size: 7px;
   }
   .nx-preview-panels {
     gap: 9px;
@@ -1316,7 +1316,7 @@ svg { vertical-align: middle; }
     padding: 15px;
   }
   .nx-feedback h4 {
-    font-size: 16px;
+    font-size: 18px;
   }
   .nx-week {
     padding: 12px;
@@ -1381,7 +1381,7 @@ svg { vertical-align: middle; }
     padding-top: 38px;
   }
   .nx-pill {
-    font-size: 7px;
+    font-size: 8px;
     letter-spacing: 0.9px;
     padding: 7px 10px;
   }
@@ -1391,7 +1391,7 @@ svg { vertical-align: middle; }
     margin-top: 25px;
   }
   .nx-hero-copy > p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.8;
     max-width: 310px;
     margin-inline: auto;
@@ -1411,7 +1411,7 @@ svg { vertical-align: middle; }
   .nx-hero-note {
     gap: 8px 14px;
     flex-wrap: wrap;
-    font-size: 8px;
+    font-size: 9px;
     margin-top: 22px;
   }
   .nx-hero-note svg {
@@ -1421,10 +1421,10 @@ svg { vertical-align: middle; }
     margin-top: 35px;
   }
   .nx-preview-label {
-    font-size: 7px;
+    font-size: 8px;
   }
   .nx-preview-label > span:first-child {
-    font-size: 7px;
+    font-size: 8px;
   }
   .nx-preview-label > span:last-child {
     display: none;
@@ -1440,17 +1440,17 @@ svg { vertical-align: middle; }
     display: none;
   }
   .nx-product-top {
-    font-size: 7px;
+    font-size: 8px;
     padding: 12px 0;
   }
   .nx-example {
-    font-size: 6px;
+    font-size: 7px;
   }
   .nx-product-heading {
     margin-block: 16px;
   }
   .nx-product-heading h3 {
-    font-size: 20px;
+    font-size: 21px;
   }
   .nx-preview-metrics {
     gap: 6px;
@@ -1465,10 +1465,10 @@ svg { vertical-align: middle; }
     width: 14px;
   }
   .nx-preview-metrics strong {
-    font-size: 8px;
+    font-size: 9px;
   }
   .nx-preview-metrics small {
-    font-size: 6px;
+    font-size: 7px;
   }
   .nx-preview-panels {
     grid-template-columns: 1fr;
@@ -1480,20 +1480,20 @@ svg { vertical-align: middle; }
     padding: 14px;
   }
   .nx-panel-title {
-    font-size: 11px;
+    font-size: 13px;
   }
   .nx-session {
-    font-size: 9px;
+    font-size: 10px;
     padding-block: 11px;
   }
   .nx-session small {
-    font-size: 8px;
-  }
-  .nx-days > span {
     font-size: 9px;
   }
+  .nx-days > span {
+    font-size: 10px;
+  }
   .nx-preview-caption {
-    font-size: 7px;
+    font-size: 8px;
     gap: 10px;
   }
   .nx-audience {
@@ -1501,10 +1501,10 @@ svg { vertical-align: middle; }
     padding: 23px 18px;
   }
   .nx-audience > span {
-    font-size: 7px;
+    font-size: 8px;
   }
   .nx-audience > div {
-    font-size: 10px;
+    font-size: 12px;
     gap: 10px 14px;
   }
   .nx-audience i {
@@ -1517,7 +1517,7 @@ svg { vertical-align: middle; }
     padding-block: 58px;
   }
   .nx-eyebrow {
-    font-size: 8px;
+    font-size: 9px;
     letter-spacing: 1.4px;
   }
   .nx-landing h2 {
@@ -1526,7 +1526,7 @@ svg { vertical-align: middle; }
     margin: 16px 0;
   }
   .nx-section-heading > p {
-    font-size: 12px;
+    font-size: 14px;
   }
   .nx-problems {
     grid-template-columns: 1fr;
@@ -1541,11 +1541,11 @@ svg { vertical-align: middle; }
   }
   .nx-problems h3 {
     margin: 0 0 8px;
-    font-size: 16px;
+    font-size: 18px;
   }
   .nx-problems p {
     grid-column: 2;
-    font-size: 12px;
+    font-size: 14px;
     margin: 0;
   }
   .nx-problem-close {
@@ -1553,7 +1553,7 @@ svg { vertical-align: middle; }
     gap: 10px;
   }
   .nx-problem-close p {
-    font-size: 11px;
+    font-size: 13px;
   }
   .nx-problem-close > svg {
     display: none;
@@ -1574,10 +1574,10 @@ svg { vertical-align: middle; }
     display: block;
   }
   .nx-feature h3 {
-    font-size: 25px;
+    font-size: 26px;
   }
   .nx-feature p {
-    font-size: 12px;
+    font-size: 14px;
     max-width: none;
   }
   .nx-routine-visual {
@@ -1599,18 +1599,18 @@ svg { vertical-align: middle; }
     margin-top: 30px;
   }
   .nx-steps h3 {
-    font-size: 15px;
+    font-size: 17px;
     line-height: 1.4;
     margin-top: 15px;
   }
   .nx-steps p {
-    font-size: 11px;
+    font-size: 13px;
   }
   .nx-access-note {
     padding: 15px;
     flex-wrap: wrap;
     gap: 10px;
-    font-size: 11px;
+    font-size: 13px;
   }
   .nx-access-note p {
     flex-basis: 80%;
@@ -1622,17 +1622,17 @@ svg { vertical-align: middle; }
     font-size: 34px;
   }
   .nx-benefit-list h3 {
-    font-size: 16px;
+    font-size: 18px;
   }
   .nx-about .nx-about-lead {
-    font-size: 19px;
+    font-size: 20px;
   }
   .nx-faq summary {
-    font-size: 12px;
+    font-size: 14px;
     padding-block: 20px;
   }
   .nx-faq details > p {
-    font-size: 12px;
+    font-size: 14px;
   }
   .nx-form-row {
     grid-template-columns: 1fr;
@@ -1640,13 +1640,13 @@ svg { vertical-align: middle; }
   }
   .nx-form input,
   .nx-form textarea {
-    font-size: 16px;
+    font-size: 18px;
   }
   .nx-form label {
-    font-size: 12px;
+    font-size: 14px;
   }
   .nx-contact-info {
-    font-size: 10px;
+    font-size: 12px;
   }
   .nx-final {
     padding: 42px 18px;
@@ -1655,10 +1655,10 @@ svg { vertical-align: middle; }
     font-size: 29px;
   }
   .nx-final > p {
-    font-size: 12px;
+    font-size: 14px;
   }
   .nx-final .nx-eyebrow {
-    font-size: 7px;
+    font-size: 8px;
   }
   .nx-footer {
     padding-top: 45px;
@@ -1672,13 +1672,13 @@ svg { vertical-align: middle; }
   }
   .nx-footer nav {
     grid-template-columns: 1fr;
-    font-size: 11px;
+    font-size: 13px;
     gap: 9px;
   }
   .nx-footer-bottom {
     flex-direction: column;
     align-items: flex-start;
-    font-size: 8px;
+    font-size: 9px;
     gap: 10px;
   }
 }
@@ -1694,4 +1694,5 @@ svg { vertical-align: middle; }
     scroll-behavior: auto;
   }
 }
+
 
