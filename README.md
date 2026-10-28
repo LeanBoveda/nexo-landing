@@ -4,7 +4,7 @@ Proyecto independiente de la aplicación Nexo. Este repositorio contiene solamen
 
 ## Desarrollo
 
-Node 22.13+ y pnpm 11.25:
+Node 22.x (22.13 o posterior dentro de esa versión mayor) y pnpm 11.25. La versión mayor está fijada para evitar actualizaciones automáticas de Node en Vercel.
 
 ```sh
 pnpm install --frozen-lockfile
